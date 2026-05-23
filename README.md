@@ -88,14 +88,89 @@ student-management-system/
 
 # 📷 Screenshots
 
-## Main Menu
-(Add screenshot here)
+## ➕ Add Student
 
-## Student Records
-(Add screenshot here)
+![Add Student](screenshots/output/1.PNG)
 
-## Search Student
-(Add screenshot here)
+---
+
+## 📋 View Students
+
+![View Students](screenshots/output/2.PNG)
+
+---
+
+## 🔍 Search Student
+
+![Search Student](screenshots/output/3.PNG)
+
+---
+
+## ✏️ Update Student
+
+![Update Student](screenshots/output/4.PNG)
+
+---
+
+## ❌ Delete Student
+
+![Delete Student](screenshots/output/5.PNG)
+
+---
+
+## 📂 Updated Records
+
+![Updated Records](screenshots/output/6.PNG)
+
+---
+
+## 🚪 Exit Program
+
+![Exit Program](screenshots/output/7.PNG)
+
+---
+
+# 💻 Code Snippets
+
+## Grade Calculation Function
+
+![Grade Function](screenshots/code_snippets/1.PNG)
+
+---
+
+## Saving Data to CSV
+
+![Save CSV](screenshots/code_snippets/2.PNG)
+
+---
+
+## Loading Data from CSV
+
+![Load CSV](screenshots/code_snippets/3.PNG)
+
+---
+
+## Main Menu & Add Student Logic
+
+![Menu Logic](screenshots/code_snippets/4.PNG)
+
+---
+
+## View & Search Student Logic
+
+![View Search Logic](screenshots/code_snippets/5.PNG)
+
+---
+
+## Update Student Logic
+
+![Update Logic](screenshots/code_snippets/6.PNG)
+
+---
+
+## Delete Student Logic
+
+![Delete Logic](screenshots/code_snippets/7.PNG)
 
 ---
 
