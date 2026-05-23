@@ -186,14 +186,6 @@ Some future improvements that can be added:
 
 ---
 
-# 🌐 Live Demo
-
-Run the project online here:
-
-(Add Replit link here)
-
----
-
 # 📚 Learning Outcome
 
 Through this project, I gained practical experience in:
